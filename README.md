@@ -5,7 +5,7 @@
 - ✨ How to reach me ... 
 - 🦇 Pronouns: ... Vampire
 - 💫 Fun fact: ...
-  ![tenor](https://github.com/aleenocl/aleenocl/assets/157506898/a8c91618-20d5-4613-b0f1-772157d8012a)
+- ![tenor](https://github.com/aleenocl/aleenocl/assets/157506898/a8c91618-20d5-4613-b0f1-772157d8012a)
 
 <!---
 aleenocl/aleenocl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
