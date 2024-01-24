@@ -1,4 +1,6 @@
 👋🏻 Hi, I’m L
+<!---
+--->
 📖 I’m interested in Business Management | Personal Development | Business Planning | Development of Management Systems | Leadership and People Management | Business Audit
 <!---
 --->
