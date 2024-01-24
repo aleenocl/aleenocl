@@ -1,6 +1,14 @@
 - 👋🏻 Hi, I’m L
-- 📖 I’m interested in Business Management | Personal Development | Business Planning | Development of Management Systems | Leadership and People Management | Business Audit 
+- 📖 I’m interested in Business Management | Personal Development | Business Planning | Development of Management Systems | Leadership and People Management | Business Audit
+<!---
+  ![image](https://github.com/aleenocl/aleenocl/assets/157506898/6560bcc5-5198-472a-a715-aded0cbd4657)
+ --->
+  
 - 📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<!---
+  ![image](https://github.com/aleenocl/aleenocl/assets/157506898/2879d749-5548-42db-aac6-96206292f227)
+  --->
+  
 - 🌲✨ How to reach me
   <a href="https://www.youtube.com/channel/UCM0CHK6fFyQzwGN6p31opvQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 - 🦇  Fun fact about Vampires
