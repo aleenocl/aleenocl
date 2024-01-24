@@ -1,8 +1,8 @@
-- 👋🏻 Hi, I’m @aleenocl 
+- 👋🏻 Hi, I’m Lee 
 - 📖 I’m interested in Business Management | Personal Development | Business Planning | Development of Management Systems | Leadership and People Management | Business Audit 
 - 📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 - 🌲 I’m looking to collaborate on
-- ✨ How to reach me ... 
+- ✨ How to reach me  
 - 🦇  Fun fact about Vampires
 - ![tenor](https://github.com/aleenocl/aleenocl/assets/157506898/a8c91618-20d5-4613-b0f1-772157d8012a)
 
