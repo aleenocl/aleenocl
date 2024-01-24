@@ -5,6 +5,7 @@
 - ✨ How to reach me ... 
 - 🦇 Pronouns: ... Vampire
 - 💫 Fun fact: ...
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleenocl)](https://github.com/aleenocl/github-readme-stats)
 - ![tenor](https://github.com/aleenocl/aleenocl/assets/157506898/a8c91618-20d5-4613-b0f1-772157d8012a)
 
 <!---
