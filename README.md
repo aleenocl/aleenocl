@@ -1,6 +1,6 @@
 - 👋🏻 Hi, I’m @aleenocl
 - 📖 I’m interested in Business Management | Personal Development | Business Planning | Development of Management Systems | Leadership and People Management | Business Audit 
-- 📚 I’m currently learning
+- 📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 - 🌲 I’m looking to collaborate on
 - ✨ How to reach me ... 
 - 🦇  Fun fact about Vampires
@@ -9,4 +9,12 @@
 <!---
 aleenocl/aleenocl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+
+<!---
+<div> 
+  <a href="https://www.youtube.com/channel/voucolocaromeuaqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/aindavoucriarumaqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:aindavoucriarumaqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 --->
