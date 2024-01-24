@@ -1,4 +1,4 @@
-- 👋🏻 Hi, I’m @aleenocl
+- 👋🏻 Hi, I’m @aleenocl 
 - 📖 I’m interested in Business Management | Personal Development | Business Planning | Development of Management Systems | Leadership and People Management | Business Audit 
 - 📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 - 🌲 I’m looking to collaborate on
