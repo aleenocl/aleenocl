@@ -76,7 +76,9 @@ Business Management | Personal Development | Business Planning | Development of 
 <!---
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/06f84be1-2981-4e52-be7d-4124aaac0c76" width='350px' />
-
+<!---
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/ebb2a4b4-e8b0-4b4d-b000-02be56c010cc" width='350px' />
+--->
 
 <!---
 aleenocl/aleenocl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
