@@ -30,7 +30,7 @@
 Business Management | Personal Development | Business Planning | Development of Management Systems | Leadership and People Management | Business Audit
 --->
 
-📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 <!---
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2879d749-5548-42db-aac6-96206292f227" width='200px' />
