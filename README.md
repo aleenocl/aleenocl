@@ -135,8 +135,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!---
---->
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -151,8 +149,5 @@ You can click the Preview link to take a look at your changes.
     src="https://raw.githubusercontent.com/aleenocl/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-<!---
 --->
-
 
