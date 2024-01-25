@@ -47,6 +47,8 @@ Business Management | Personal Development | Business Planning | Development of 
 🦇  Fun fact about Vampires
 <!---
 --->
+<!---
+--->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/a8c91618-20d5-4613-b0f1-772157d8012a" width='350px' />
 
 <!---
