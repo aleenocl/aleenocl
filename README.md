@@ -21,7 +21,7 @@
 --->
 
 <!---
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/f4f2edd0-f2b6-4699-8c01-c21fd92f7370" width='20px' />
+![kawaii]<img src="https://github.com/aleenocl/aleenocl/assets/157506898/f4f2edd0-f2b6-4699-8c01-c21fd92f7370" width='20px' />
 --->
 
 <!---
@@ -43,6 +43,7 @@
 <!---
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/bcd79ad1-d1d0-4d2a-ab60-018ef40be220" width='450px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/8da1c778-3d11-40d8-8419-412eb5603d19" width='250px' />
 <!---
 --->
 <!---
@@ -51,6 +52,9 @@ Business Management | Personal Development | Business Planning | Development of 
 <!---
 ![thats-you-point-out](https://github.com/aleenocl/aleenocl/assets/157506898/c5594caa-e97a-467d-b88c-f2ccc6ffb375)
 --->
+
+
+
 
 📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 <!---
@@ -74,7 +78,7 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <!---
 --->
 
-🌲✨ How to reach me
+🌲✨ How to reach me 
 <!---
 --->
 <a href="https://www.youtube.com/channel/UCM0CHK6fFyQzwGN6p31opvQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
@@ -94,15 +98,6 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ebb2a4b4-e8b0-4b4d-b000-02be56c010cc" width='350px' />
 --->
 
-🍕 
-<!---
---->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/78cbb9e3-ae4a-448c-8259-f43618f12834" width='350px' />
-<!---
---->
-
-
-
 
 
 <!---
@@ -112,7 +107,6 @@ You can click the Preview link to take a look at your changes.
 
 <!---
 <div> 
- 
   <a href="https://instagram.com/aindavoucriarumaqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:aindavoucriarumaqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
