@@ -59,6 +59,17 @@ Business Management | Personal Development | Business Planning | Development of 
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2bda003f-5995-47b2-98dd-ce862daaea35" width='200px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/fcbc0299-cb8d-4a75-8ea1-a945bac9769e" width='320px' />
 
+📖 Isaías 55:9
+<!---
+--->
+Porque assim como os céus são mais altos do que a terra, assim são os meus caminhos mais altos do que os vossos caminhos, e os meus pensamentos mais altos do que os vossos pensamentos. 
+<!---
+--->
+![jpineapplepen-stpauls](https://github.com/aleenocl/aleenocl/assets/157506898/2c94a350-fbfe-4c24-8ca2-76a210249e9e)
+![the-chosen-jesus](https://github.com/aleenocl/aleenocl/assets/157506898/f0590c7e-0160-4c97-85c2-c50dc9745c8a)
+
+<!---
+--->
 
 🌲✨ How to reach me
 <!---
@@ -66,7 +77,7 @@ Business Management | Personal Development | Business Planning | Development of 
 <a href="https://www.youtube.com/channel/UCM0CHK6fFyQzwGN6p31opvQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
   <!---
 --->
-  
+
 🦇  Fun fact about <img src="https://github.com/aleenocl/aleenocl/assets/157506898/98d7180a-353b-43b3-8f02-547fdcf04f9f" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/cbebf593-4903-425f-a401-26e7bf50f83f" width='100px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/0ee40491-71ea-431f-96b0-77d5d22bde34" width='50px' />
@@ -79,6 +90,9 @@ Business Management | Personal Development | Business Planning | Development of 
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ebb2a4b4-e8b0-4b4d-b000-02be56c010cc" width='350px' />
 --->
+
+
+
 
 <!---
 aleenocl/aleenocl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
