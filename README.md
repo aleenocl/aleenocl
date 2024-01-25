@@ -1,7 +1,17 @@
+![black-heart-divider](https://github.com/aleenocl/aleenocl/assets/157506898/dbd1051d-3040-4182-802a-4828b539f147)![black-heart-divider](https://github.com/aleenocl/aleenocl/assets/157506898/dbd1051d-3040-4182-802a-4828b539f147)
+<!---
+--->
 👋🏻 Hi, I’m
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/1ebc8feb-7f1b-4949-8845-f8a19f37115b" width='40px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b30d67b8-90b9-4b03-99b9-9060860a9066" width='20px' />
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/b30d67b8-90b9-4b03-99b9-9060860a9066" width='20px' />  <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b09aabd1-e91b-436b-af23-323e2d19b0ee" width='77px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/b30d67b8-90b9-4b03-99b9-9060860a9066" width='20px' /> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/f7bda84f-382a-48af-86c9-b96697169f05" width='50px' /> 
+
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/57857c51-af08-4771-bb33-b9f2fee4f587" width='90px' />
+
+
+<!---
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/b09aabd1-e91b-436b-af23-323e2d19b0ee" width='77px' />
+--->
 <!---
 --->
 
@@ -33,6 +43,9 @@
 <!---
 Business Management | Personal Development | Business Planning | Development of Management Systems | Leadership and People Management | Business Audit
 --->
+<!---
+![thats-you-point-out](https://github.com/aleenocl/aleenocl/assets/157506898/c5594caa-e97a-467d-b88c-f2ccc6ffb375)
+--->
 
 📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 <!---
@@ -40,6 +53,10 @@ Business Management | Personal Development | Business Planning | Development of 
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2879d749-5548-42db-aac6-96206292f227" width='200px' />
 <!---
 --->
+
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/2bda003f-5995-47b2-98dd-ce862daaea35" width='200px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/fcbc0299-cb8d-4a75-8ea1-a945bac9769e" width='320px' />
+
 
 🌲✨ How to reach me
 <!---
@@ -56,6 +73,7 @@ Business Management | Personal Development | Business Planning | Development of 
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/a8c91618-20d5-4613-b0f1-772157d8012a" width='350px' />
 <!---
 --->
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/06f84be1-2981-4e52-be7d-4124aaac0c76" width='350px' />
 
 
 <!---
@@ -70,3 +88,7 @@ You can click the Preview link to take a look at your changes.
   <a href = "mailto:aindavoucriarumaqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 --->
+<!---
+
+--->
+
