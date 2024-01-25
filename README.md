@@ -8,8 +8,8 @@
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b30d67b8-90b9-4b03-99b9-9060860a9066" width='20px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b30d67b8-90b9-4b03-99b9-9060860a9066" width='20px' /> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/f7bda84f-382a-48af-86c9-b96697169f05" width='50px' /> 
 
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/57857c51-af08-4771-bb33-b9f2fee4f587" width='90px' />
 
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/57857c51-af08-4771-bb33-b9f2fee4f587" width='90px' />
 
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b09aabd1-e91b-436b-af23-323e2d19b0ee" width='77px' />
@@ -90,6 +90,14 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ebb2a4b4-e8b0-4b4d-b000-02be56c010cc" width='350px' />
 --->
+
+🍕 Loves pizza 
+<!---
+--->
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/78cbb9e3-ae4a-448c-8259-f43618f12834" width='350px' />
+<!---
+--->
+
 
 
 
