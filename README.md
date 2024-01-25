@@ -45,11 +45,15 @@ Business Management | Personal Development | Business Planning | Development of 
 --->
   
 🦇  Fun fact about Vampires
-<!---
---->
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/cbebf593-4903-425f-a401-26e7bf50f83f" width='100px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/0ee40491-71ea-431f-96b0-77d5d22bde34" width='50px' />
+
 <!---
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/a8c91618-20d5-4613-b0f1-772157d8012a" width='350px' />
+<!---
+--->
+
 
 <!---
 aleenocl/aleenocl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
