@@ -94,7 +94,7 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ebb2a4b4-e8b0-4b4d-b000-02be56c010cc" width='350px' />
 --->
 
-🍕 Loves pizza 
+🍕 
 <!---
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/78cbb9e3-ae4a-448c-8259-f43618f12834" width='350px' />
