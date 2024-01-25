@@ -1,14 +1,18 @@
 👋🏻 Hi, I’m
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/1ebc8feb-7f1b-4949-8845-f8a19f37115b" width='40px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b30d67b8-90b9-4b03-99b9-9060860a9066" width='20px' />
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/b30d67b8-90b9-4b03-99b9-9060860a9066" width='20px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/b30d67b8-90b9-4b03-99b9-9060860a9066" width='20px' />  <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b09aabd1-e91b-436b-af23-323e2d19b0ee" width='77px' />
+<!---
+--->
+
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/f4f2edd0-f2b6-4699-8c01-c21fd92f7370" width='20px' />
 --->
 
 <!---
 --->
-📖 I’m interested in 
+📖 I’m interested in
+
 <!---
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/fe49ec0e-5415-4be9-abca-081a6dca9b51" width='250px' />
@@ -40,14 +44,13 @@ Business Management | Personal Development | Business Planning | Development of 
 🌲✨ How to reach me
 <!---
 --->
-<a href="https://www.youtube.com/channel/UCM0CHK6fFyQzwGN6p31opvQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCM0CHK6fFyQzwGN6p31opvQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
   <!---
 --->
   
-🦇  Fun fact about Vampires
+🦇  Fun fact about <img src="https://github.com/aleenocl/aleenocl/assets/157506898/98d7180a-353b-43b3-8f02-547fdcf04f9f" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/cbebf593-4903-425f-a401-26e7bf50f83f" width='100px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/0ee40491-71ea-431f-96b0-77d5d22bde34" width='50px' />
-
 <!---
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/a8c91618-20d5-4613-b0f1-772157d8012a" width='350px' />
