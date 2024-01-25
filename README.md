@@ -117,7 +117,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![anime-pink-hair](https://github.com/aleenocl/aleenocl/assets/157506898/7c8fbbe5-af3b-4494-aaf8-6720963b6983)
-<a href="https://open.spotify.com/user/dv9m6af3rai83a4lgt7wbgmp6?si=99YOx1MHQHa1ggAi-uS26g" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/bce605fc-3c91-4cde-97a5-ae49367a788d" width='50px' /> 
+<a href="https://open.spotify.com/user/dv9m6af3rai83a4lgt7wbgmp6?si=99YOx1MHQHa1ggAi-uS26g" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/bce605fc-3c91-4cde-97a5-ae49367a788d" width='35px' /> 
 
 
 
