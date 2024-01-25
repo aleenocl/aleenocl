@@ -84,6 +84,9 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <a href="https://www.youtube.com/channel/UCM0CHK6fFyQzwGN6p31opvQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
   <!---
 --->
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='100px' />
+<!---
+--->
 
 🦇  Fun fact about <img src="https://github.com/aleenocl/aleenocl/assets/157506898/98d7180a-353b-43b3-8f02-547fdcf04f9f" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/cbebf593-4903-425f-a401-26e7bf50f83f" width='100px' />
