@@ -18,9 +18,7 @@
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b09aabd1-e91b-436b-af23-323e2d19b0ee" width='77px' />
 --->
 <!---
---->
 
-<!---
 ![kawaii]<img src="https://github.com/aleenocl/aleenocl/assets/157506898/f4f2edd0-f2b6-4699-8c01-c21fd92f7370" width='20px' />
 --->
 
@@ -119,14 +117,24 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![anime-pink-hair](https://github.com/aleenocl/aleenocl/assets/157506898/7c8fbbe5-af3b-4494-aaf8-6720963b6983)
-<a href="https://open.spotify.com/user/dv9m6af3rai83a4lgt7wbgmp6?si=99YOx1MHQHa1ggAi-uS26g" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/bce605fc-3c91-4cde-97a5-ae49367a788d" width='50px' />
+<a href="https://open.spotify.com/user/dv9m6af3rai83a4lgt7wbgmp6?si=99YOx1MHQHa1ggAi-uS26g" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/bce605fc-3c91-4cde-97a5-ae49367a788d" width='50px' /> 
+
+
+
+<!---
+--->
 
 <!---
 --->
 <!---
 ![bolo]<img src="https://github.com/aleenocl/aleenocl/assets/157506898/732ba423-0c6b-41ae-b5a7-649a47a69406" width='50px' />
 ![bolo]<img src="https://github.com/aleenocl/aleenocl/assets/157506898/4d67163a-7fee-4452-97ba-dae00a2d674c" width='50px' />
+![xicara]<img src="https://github.com/aleenocl/aleenocl/assets/157506898/24fb1794-5de3-475b-aa9f-fc0f782729da" width='100px' />
+![pizza homem aranha]<img src="https://github.com/aleenocl/aleenocl/assets/157506898/78cbb9e3-ae4a-448c-8259-f43618f12834" width='350px' />
+![coracoes pixel]<img src="https://github.com/aleenocl/aleenocl/assets/157506898/eeffff7e-c175-489b-b896-5b09842abcea" width='70px' />
 --->
+
+
 
 
 
