@@ -81,10 +81,10 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 🌲✨ How to reach me 
 <!---
 --->
-<a href="https://www.youtube.com/channel/UCM0CHK6fFyQzwGN6p31opvQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
+<a href="https://www.youtube.com/channel/UCM0CHK6fFyQzwGN6p31opvQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>![cute](https://github.com/aleenocl/aleenocl/assets/157506898/0a5dff88-b85c-4197-99b3-0469d37d8d93) 
   <!---
 --->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='100px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='100px' /> 
 <!---
 --->
 
