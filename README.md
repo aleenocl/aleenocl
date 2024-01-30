@@ -8,13 +8,12 @@
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b30d67b8-90b9-4b03-99b9-9060860a9066" width='20px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b30d67b8-90b9-4b03-99b9-9060860a9066" width='20px' /> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/f7bda84f-382a-48af-86c9-b96697169f05" width='50px' /> 
 <!---
-![mystic-messenger](https://github.com/aleenocl/aleenocl/assets/157506898/4dc928bb-300b-410a-b08d-91eed4a71303)
+![mystic-messenger](https://github.com/aleenocl/aleenocl/assets/157506898/4dc928bb-300b-410a-b08d-91eed4a71303) 
 --->
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/57857c51-af08-4771-bb33-b9f2fee4f587" width='90px' />
 --->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/23a260bf-c35b-4d5d-ad4e-9bec8ce4a496" width='400px' />
-
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/23a260bf-c35b-4d5d-ad4e-9bec8ce4a496" width='400px' /> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/55e2a89f-8a4f-4eb8-9583-764b94b1aca9" width='180px' /> 
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b09aabd1-e91b-436b-af23-323e2d19b0ee" width='77px' />
 --->
@@ -61,6 +60,8 @@ Business Management | Personal Development | Business Planning | Development of 
 
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2bda003f-5995-47b2-98dd-ce862daaea35" width='200px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/fcbc0299-cb8d-4a75-8ea1-a945bac9769e" width='320px' />
+<!---
+--->
 
 📖 Isaías 55:9
 <!---
@@ -186,6 +187,7 @@ If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/ass
 ![great catn](https://github.com/aleenocl/aleenocl/assets/157506898/283cf907-a2a1-457a-970a-695a53701ba6)
 ![anime-cute de um lado para outro](https://github.com/aleenocl/aleenocl/assets/157506898/87a1e6ac-8362-412d-b214-3f0dce72367e)
 ![cat-cats](https://github.com/aleenocl/aleenocl/assets/157506898/237c040e-03ad-4da9-b30f-a326ceda8bf6) 
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/6dee60e9-c3a0-4818-a064-e807f4328212" width='320px' />
 --->
 
 
