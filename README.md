@@ -54,7 +54,7 @@ Business Management | Personal Development | Business Planning | Development of 
 ![thats-you-point-out](https://github.com/aleenocl/aleenocl/assets/157506898/c5594caa-e97a-467d-b88c-f2ccc6ffb375)
 --->
 
-
+![pinkpaws-kittypaws](https://github.com/aleenocl/aleenocl/assets/157506898/7a2fb0f2-29df-4e8b-ae92-32d38aa4141c)
 
 
 📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
@@ -92,6 +92,7 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <!---
 --->
 
+![kawaii-girl-anime](https://github.com/aleenocl/aleenocl/assets/157506898/cd94b95b-8480-4b18-933c-f0382374fe96)
 
 
 
@@ -158,4 +159,6 @@ You can click the Preview link to take a look at your changes.
 <!---
 --->
 
-
+<!---
+![amazed-sparkle](https://github.com/aleenocl/aleenocl/assets/157506898/329656ad-8a5c-405d-b795-8cdca2e68134)
+--->
