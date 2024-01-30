@@ -82,7 +82,7 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/7c8fbbe5-af3b-4494-aaf8-6720963b6983)" width='100px' /> 
 --->
-<a href="https://open.spotify.com/user/dv9m6af3rai83a4lgt7wbgmp6?si=99YOx1MHQHa1ggAi-uS26g" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/bce605fc-3c91-4cde-97a5-ae49367a788d" width='30px' /> 
+<a href="https://open.spotify.com/user/dv9m6af3rai83a4lgt7wbgmp6?si=99YOx1MHQHa1ggAi-uS26g" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/bce605fc-3c91-4cde-97a5-ae49367a788d" width='50px' /> 
 
 <!---
 --->
@@ -103,10 +103,10 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 Donations for interest in contributing to projects
 <!---
 --->
-![aniime-feliz](https://github.com/aleenocl/aleenocl/assets/157506898/90a95977-0b5f-47fd-9906-6e9d51fef855)
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/90a95977-0b5f-47fd-9906-6e9d51fef855" width='280px' />
 <!---
 --->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='100px' /> 
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='90px' /> 
 
 
 <!---
@@ -131,7 +131,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/assets/157506898/504b1345-4b7b-4f11-8e5b-27ea3f49a618) tea
 --->
-![pinkpaws-kittypaws](https://github.com/aleenocl/aleenocl/assets/157506898/7a2fb0f2-29df-4e8b-ae92-32d38aa4141c)
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/7a2fb0f2-29df-4e8b-ae92-32d38aa4141c" width='100px' /> 
 <!---
 --->
 
@@ -155,7 +155,7 @@ If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/ass
 ![bolo]<img src="https://github.com/aleenocl/aleenocl/assets/157506898/4d67163a-7fee-4452-97ba-dae00a2d674c" width='50px' />
 ![xicara]<img src="https://github.com/aleenocl/aleenocl/assets/157506898/24fb1794-5de3-475b-aa9f-fc0f782729da" width='100px' />
 ![pizza homem aranha]<img src="https://github.com/aleenocl/aleenocl/assets/157506898/78cbb9e3-ae4a-448c-8259-f43618f12834" width='350px' />
-![coracoes pixel]<img src="https://github.com/aleenocl/aleenocl/assets/157506898/eeffff7e-c175-489b-b896-5b09842abcea" width='70px' />
+![coracoes pixel]<img src="https://github.com/aleenocl/aleenocl/assets/157506898/eeffff7e-c175-489b-b896-5b09842abcea" width='100px' />
 --->
 
 <!---
@@ -200,7 +200,6 @@ If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/ass
 ![kawaii-girl-anime](https://github.com/aleenocl/aleenocl/assets/157506898/cd94b95b-8480-4b18-933c-f0382374fe96)
 ![kawaii-cat](https://github.com/aleenocl/aleenocl/assets/157506898/bc545b40-084e-42c1-831e-fed660456b79)
 --->
-
 
 
 
