@@ -13,9 +13,7 @@
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/57857c51-af08-4771-bb33-b9f2fee4f587" width='90px' />
 --->
-
-![208593](https://github.com/aleenocl/aleenocl/assets/157506898/33992edf-f114-4005-b065-14b3b92ce1c0)
-
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/23a260bf-c35b-4d5d-ad4e-9bec8ce4a496" width='400px' />
 
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b09aabd1-e91b-436b-af23-323e2d19b0ee" width='77px' />
@@ -54,9 +52,6 @@ Business Management | Personal Development | Business Planning | Development of 
 ![thats-you-point-out](https://github.com/aleenocl/aleenocl/assets/157506898/c5594caa-e97a-467d-b88c-f2ccc6ffb375)
 --->
 
-![pinkpaws-kittypaws](https://github.com/aleenocl/aleenocl/assets/157506898/7a2fb0f2-29df-4e8b-ae92-32d38aa4141c)
-
-
 📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
 <!---
 --->
@@ -88,13 +83,6 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 
 <!---
 --->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='100px' /> 
-<!---
---->
-
-![kawaii-girl-anime](https://github.com/aleenocl/aleenocl/assets/157506898/cd94b95b-8480-4b18-933c-f0382374fe96)
-
-
 
 🦇  Fun fact about <img src="https://github.com/aleenocl/aleenocl/assets/157506898/98d7180a-353b-43b3-8f02-547fdcf04f9f" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/cbebf593-4903-425f-a401-26e7bf50f83f" width='100px' />
@@ -109,11 +97,34 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ebb2a4b4-e8b0-4b4d-b000-02be56c010cc" width='350px' />
 --->
 
+Donations 
+<!---
+--->
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='100px' /> 
+<!---
+--->
 
+![kawaii-girl-anime](https://github.com/aleenocl/aleenocl/assets/157506898/cd94b95b-8480-4b18-933c-f0382374fe96)
+
+<!---
+--->
 
 <!---
 aleenocl/aleenocl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+
+
+<!---
+--->
+If you are interested in contributing to projects
+<!---
+--->
+![pinkpaws-kittypaws](https://github.com/aleenocl/aleenocl/assets/157506898/7a2fb0f2-29df-4e8b-ae92-32d38aa4141c)
+<!---
+--->
+If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/assets/157506898/504b1345-4b7b-4f11-8e5b-27ea3f49a618) tea
+<!---
 --->
 
 <!---
@@ -171,9 +182,13 @@ You can click the Preview link to take a look at your changes.
 ![menhera-goodluck](https://github.com/aleenocl/aleenocl/assets/157506898/0ff7a732-16dd-484d-aa08-7bbfda7b0aa7)
 ![cat-nani](https://github.com/aleenocl/aleenocl/assets/157506898/928b12d3-4e5f-45ec-b070-b8d0715e2960)
 ![peach-and-goma-peach-goma](https://github.com/aleenocl/aleenocl/assets/157506898/572066c1-4c3f-49d3-8781-6118222de95d)
+![oiii](https://github.com/aleenocl/aleenocl/assets/157506898/33992edf-f114-4005-b065-14b3b92ce1c0)
+![great catn](https://github.com/aleenocl/aleenocl/assets/157506898/283cf907-a2a1-457a-970a-695a53701ba6)
+![anime-cute de um lado para outro](https://github.com/aleenocl/aleenocl/assets/157506898/87a1e6ac-8362-412d-b214-3f0dce72367e)
+![cat-cats](https://github.com/aleenocl/aleenocl/assets/157506898/237c040e-03ad-4da9-b30f-a326ceda8bf6) 
 --->
 
-![anime-cute](https://github.com/aleenocl/aleenocl/assets/157506898/87a1e6ac-8362-412d-b214-3f0dce72367e)
-![cat-cats](https://github.com/aleenocl/aleenocl/assets/157506898/237c040e-03ad-4da9-b30f-a326ceda8bf6)
-![sticker-pusheen](https://github.com/aleenocl/aleenocl/assets/157506898/283cf907-a2a1-457a-970a-695a53701ba6)
-![neko-ella-vtuber](https://github.com/aleenocl/aleenocl/assets/157506898/23a260bf-c35b-4d5d-ad4e-9bec8ce4a496)
+
+
+
+
