@@ -103,7 +103,12 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 Donations 
 <!---
 --->
+![aniime-feliz](https://github.com/aleenocl/aleenocl/assets/157506898/90a95977-0b5f-47fd-9906-6e9d51fef855)
+<!---
+--->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='100px' /> 
+
+
 <!---
 --->
 
@@ -190,6 +195,8 @@ If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/ass
 ![anime-cute de um lado para outro](https://github.com/aleenocl/aleenocl/assets/157506898/87a1e6ac-8362-412d-b214-3f0dce72367e)
 ![cat-cats](https://github.com/aleenocl/aleenocl/assets/157506898/237c040e-03ad-4da9-b30f-a326ceda8bf6) 
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/6dee60e9-c3a0-4818-a064-e807f4328212" width='320px' />
+![one-piece-monkey-d-luffy](https://github.com/aleenocl/aleenocl/assets/157506898/19990b75-2b71-4d98-ab4e-95f2340ec924)
+
 --->
 
 
