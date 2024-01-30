@@ -78,7 +78,7 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <!---
 --->
 <a href="https://www.youtube.com/channel/UCM0CHK6fFyQzwGN6p31opvQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>![cute](https://github.com/aleenocl/aleenocl/assets/157506898/0a5dff88-b85c-4197-99b3-0469d37d8d93) 
-![anime-pink-hair](https://github.com/aleenocl/aleenocl/assets/157506898/7c8fbbe5-af3b-4494-aaf8-6720963b6983)
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/7c8fbbe5-af3b-4494-aaf8-6720963b6983)" width='100px' /> 
 <a href="https://open.spotify.com/user/dv9m6af3rai83a4lgt7wbgmp6?si=99YOx1MHQHa1ggAi-uS26g" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/bce605fc-3c91-4cde-97a5-ae49367a788d" width='30px' /> 
 
 <!---
