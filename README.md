@@ -199,6 +199,14 @@ Systems ideas
 <!---
 --->
 
+Pós Graduação Stricto Sensu
+
+Master of Business Administration
+
+Pós Graduação Lato Sensu
+
+Graduação
+
 🌲✨ How to reach me 
 <!---
 --->
