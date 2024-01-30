@@ -100,7 +100,7 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ebb2a4b4-e8b0-4b4d-b000-02be56c010cc" width='350px' />
 --->
 
-Donations 
+Donations for interest in contributing to projects
 <!---
 --->
 ![aniime-feliz](https://github.com/aleenocl/aleenocl/assets/157506898/90a95977-0b5f-47fd-9906-6e9d51fef855)
@@ -111,8 +111,6 @@ Donations
 
 <!---
 --->
-
-![kawaii-girl-anime](https://github.com/aleenocl/aleenocl/assets/157506898/cd94b95b-8480-4b18-933c-f0382374fe96)
 
 <!---
 --->
@@ -125,13 +123,15 @@ You can click the Preview link to take a look at your changes.
 
 <!---
 --->
-If you are interested in contributing to projects
 <!---
+--->
+
+<!---
+--->
+<!---
+If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/assets/157506898/504b1345-4b7b-4f11-8e5b-27ea3f49a618) tea
 --->
 ![pinkpaws-kittypaws](https://github.com/aleenocl/aleenocl/assets/157506898/7a2fb0f2-29df-4e8b-ae92-32d38aa4141c)
-<!---
---->
-If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/assets/157506898/504b1345-4b7b-4f11-8e5b-27ea3f49a618) tea
 <!---
 --->
 
@@ -183,7 +183,7 @@ If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/ass
 
 --->
 
-![kawaii-cat](https://github.com/aleenocl/aleenocl/assets/157506898/bc545b40-084e-42c1-831e-fed660456b79)
+
 
 
 <!---
@@ -197,6 +197,8 @@ If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/ass
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/6dee60e9-c3a0-4818-a064-e807f4328212" width='320px' />
 ![one-piece-monkey-d-luffy](https://github.com/aleenocl/aleenocl/assets/157506898/19990b75-2b71-4d98-ab4e-95f2340ec924)
 
+![kawaii-girl-anime](https://github.com/aleenocl/aleenocl/assets/157506898/cd94b95b-8480-4b18-933c-f0382374fe96)
+![kawaii-cat](https://github.com/aleenocl/aleenocl/assets/157506898/bc545b40-084e-42c1-831e-fed660456b79)
 --->
 
 
