@@ -51,7 +51,13 @@ Business Management | Personal Development | Business Planning | Development of 
 ![thats-you-point-out](https://github.com/aleenocl/aleenocl/assets/157506898/c5594caa-e97a-467d-b88c-f2ccc6ffb375)
 --->
 
-📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/afdd4b66-74c4-4bd7-a782-bb31c2304ea2" width='140px' />
+<!---
+--->
+
+
+
+
 <!---
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2879d749-5548-42db-aac6-96206292f227" width='230px' />
