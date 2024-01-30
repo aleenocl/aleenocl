@@ -209,9 +209,6 @@ If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/ass
 ![kawaii-cat](https://github.com/aleenocl/aleenocl/assets/157506898/bc545b40-084e-42c1-831e-fed660456b79)
 --->
 
-
-
-
 <!---
 --->
 Systems ideas
