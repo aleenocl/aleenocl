@@ -198,6 +198,11 @@ If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/ass
 ![one-piece-monkey-d-luffy](https://github.com/aleenocl/aleenocl/assets/157506898/19990b75-2b71-4d98-ab4e-95f2340ec924)
 ![goodbye-chat-howl's-moving-castle](https://github.com/aleenocl/aleenocl/assets/157506898/f7529109-3fff-4bf9-a0a0-6df3bad1706a)
 ![cat-naruto](https://github.com/aleenocl/aleenocl/assets/157506898/2df65512-d373-4532-8834-5c57805825a1)
+![cute-mail](https://github.com/aleenocl/aleenocl/assets/157506898/36d4916b-c624-4cbb-863c-b75f6d6ed1a9)
+![anya-anya-forger](https://github.com/aleenocl/aleenocl/assets/157506898/4f25bc19-7b81-4b0e-828d-eac29b331390)
+![anya-anya-anime](https://github.com/aleenocl/aleenocl/assets/157506898/b0bf6bb2-f101-4fd8-84b1-c7af9d299010)
+![anya-forger-taking-notes](https://github.com/aleenocl/aleenocl/assets/157506898/fc58c3b5-9080-4d50-b3fa-a02dee963009)
+![deal-with-it-sunglasses](https://github.com/aleenocl/aleenocl/assets/157506898/deedbb2e-8c48-49ed-a670-bedd01c8e1b6)
 
 
 ![kawaii-girl-anime](https://github.com/aleenocl/aleenocl/assets/157506898/cd94b95b-8480-4b18-933c-f0382374fe96)
