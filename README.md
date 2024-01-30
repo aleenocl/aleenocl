@@ -196,10 +196,15 @@ If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/ass
 ![cat-cats](https://github.com/aleenocl/aleenocl/assets/157506898/237c040e-03ad-4da9-b30f-a326ceda8bf6) 
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/6dee60e9-c3a0-4818-a064-e807f4328212" width='320px' />
 ![one-piece-monkey-d-luffy](https://github.com/aleenocl/aleenocl/assets/157506898/19990b75-2b71-4d98-ab4e-95f2340ec924)
+![goodbye-chat-howl's-moving-castle](https://github.com/aleenocl/aleenocl/assets/157506898/f7529109-3fff-4bf9-a0a0-6df3bad1706a)
+![cat-naruto](https://github.com/aleenocl/aleenocl/assets/157506898/2df65512-d373-4532-8834-5c57805825a1)
+
 
 ![kawaii-girl-anime](https://github.com/aleenocl/aleenocl/assets/157506898/cd94b95b-8480-4b18-933c-f0382374fe96)
 ![kawaii-cat](https://github.com/aleenocl/aleenocl/assets/157506898/bc545b40-084e-42c1-831e-fed660456b79)
 --->
+
+![anime](https://github.com/aleenocl/aleenocl/assets/157506898/329d1cbc-d7df-49f4-8112-80a45378ea9d)
 
 
 
