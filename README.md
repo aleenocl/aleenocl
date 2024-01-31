@@ -13,7 +13,7 @@
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/57857c51-af08-4771-bb33-b9f2fee4f587" width='90px' />
 --->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/23a260bf-c35b-4d5d-ad4e-9bec8ce4a496" width='400px' /> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/55e2a89f-8a4f-4eb8-9583-764b94b1aca9" width='180px' /> 
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/23a260bf-c35b-4d5d-ad4e-9bec8ce4a496" width='450px' /> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/55e2a89f-8a4f-4eb8-9583-764b94b1aca9" width='180px' /> 
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b09aabd1-e91b-436b-af23-323e2d19b0ee" width='77px' />
 --->
