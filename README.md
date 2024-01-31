@@ -82,7 +82,26 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 ![the-chosen-jesus](https://github.com/aleenocl/aleenocl/assets/157506898/f0590c7e-0160-4c97-85c2-c50dc9745c8a)
 
 <!---
+Pós Graduação
+Docência no Ensino Superior
+Business Intelligence, Big Data e Analytics - Ciência de Dados
+Direito Penal e Processo Penal
+
+MBA
+Gestão de Tecnologia da Informação
+Liderança e Coaching na Gestão de Pessoas.
+Gestão Estratégica de Marketing e Inteligência Competitiva
+Negociação e Gestão de Conflitos Organizacionais. 
+Liderança e Gestão de Equipes de Alta Performance.
+Gestão de Projetos.
+Processos Gerenciais. 
+Finanças, Auditoria e Controladoria. 
+Cybersecurity e Cibercrimes.
+
+Mestrado
+Administração e Direção de Empresas. 
 --->
+
 🎓 Pós Graduação Stricto Sensu
 <!---
 --->
