@@ -105,6 +105,11 @@ Administração e Direção de Empresas.
 🎓 Pós Graduação Stricto Sensu
 <!---
 --->
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/bf09a5db-8b0d-400c-9093-2430deb46beb" width='520px' /> 
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/05c85a13-1d4a-4d22-a336-b9959a60c595" width='520px' />
+
+<!---
+--->
 🎓 Master of Business Administration 
 <!---
 --->
@@ -117,6 +122,13 @@ Administração e Direção de Empresas.
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ba3d9eef-eb9f-49e8-af59-e2239def198f" width='280px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/cf7e8853-fc92-4e72-9d3c-6297a27259a1" width='280px' />
 
+<!---
+--->
+
+
+
+<!---
+--->
 
 🎓 Pós Graduação Lato Sensu 
 <!---
