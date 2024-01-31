@@ -102,33 +102,24 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 🎓 Graduação
 <!---
 --->
-
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/da1b0492-4716-4744-ac6d-515a2dedca4c" width='240px' />
-
 <!---
 --->
-
-![mio-akiyama-computer](https://github.com/aleenocl/aleenocl/assets/157506898/dd95e694-c857-42f3-8e78-95418f29f720)
-![kaito-typing](https://github.com/aleenocl/aleenocl/assets/157506898/06b9caa8-2ca6-4134-8ab2-1320aaabc6a3)
-
-
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/dd95e694-c857-42f3-8e78-95418f29f720" width='260px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/06b9caa8-2ca6-4134-8ab2-1320aaabc6a3" width='260px' />
 <!---
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/28b6ee54-963d-4f42-bd9a-ec4f25e8648e" width='260px' />
 <!---
 
---->
 <!---
 --->
 
-<!---
---->
-![ninjala-ninjala-anime](https://github.com/aleenocl/aleenocl/assets/157506898/8061f798-b393-43b6-bb7f-8e09ee9ba467)
-![ninjala-jane](https://github.com/aleenocl/aleenocl/assets/157506898/d22f1c45-39f2-4279-a150-42324b938fbd)
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/8061f798-b393-43b6-bb7f-8e09ee9ba467" width='260px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/d22f1c45-39f2-4279-a150-42324b938fbd" width='260px' />
 
 <!---
 --->
-
 
 Donations for interest in contributing to projects
 <!---
@@ -272,9 +263,11 @@ Systems ideas
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ebb2a4b4-e8b0-4b4d-b000-02be56c010cc" width='300px' />
 --->
 
+<!---
+
 Birthday on 7/16
 <!---
---->
+
 
 ![anime-cake](https://github.com/aleenocl/aleenocl/assets/157506898/975eaaa5-8539-4899-b738-879ee3fef8c1)
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b3deac3b-27ce-4ad6-83fe-2f2fdd119f87" width='300px' />
