@@ -136,6 +136,13 @@ Administração e Direção de Empresas.
 <!---
 --->
 
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/e7ce4f36-a258-4c5d-a0e4-ff73e9d7325d" width='270px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/75ffd539-b733-4207-95eb-6abf762dee50" width='270px' />
+
+
+<!---
+--->
+
 🎓 Pós Graduação Lato Sensu 
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/0edf77d7-aaf1-4967-b516-dd55eaa5e169" width='200px' />
