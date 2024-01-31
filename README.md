@@ -171,10 +171,11 @@ Administração e Direção de Empresas.
 <!---
 --->
 
-![pretty-please-emote](https://github.com/aleenocl/aleenocl/assets/157506898/6800be85-7a8a-4e9d-a792-26c501a3876f)
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/6800be85-7a8a-4e9d-a792-26c501a3876f" width='320px' />
 
 <!---
 --->
+
 🎓 Graduação
 <!---
 --->
@@ -339,6 +340,8 @@ Systems ideas
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ebb2a4b4-e8b0-4b4d-b000-02be56c010cc" width='300px' />
 --->
 
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/4d047736-bc58-4f24-9617-52e53a34a362" width='340px' />
+
 <!---
 
 Birthday on 7/16
@@ -352,5 +355,7 @@ Birthday on 7/16
 --->
 
 <!---
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/fe0c4587-09a3-411b-9b77-f6eb4d86fd70" width='300px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/fe0c4587-09a3-411b-9b77-f6eb4d86fd70" width='320px' />
 --->
+
+
