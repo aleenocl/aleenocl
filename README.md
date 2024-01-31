@@ -161,6 +161,9 @@ Administração e Direção de Empresas.
 ![anime-school](https://github.com/aleenocl/aleenocl/assets/157506898/eeb181ee-11e3-4bd7-9bd4-196cac9454cf)
 --->
 
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/ec808940-4cdb-4752-bee7-9c789ba017bd" width='200px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/5a9120ad-9aa5-4449-9111-1147e2f44507" width='220px' />
+
 <!---
 --->
 🎓 Graduação
