@@ -69,6 +69,9 @@ Business Management | Personal Development | Business Planning | Development of 
 <!---
 --->
 
+<!---
+--->
+
 📖 Isaías 55:9
 <!---
 --->
@@ -77,6 +80,25 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 --->
 ![jpineapplepen-stpauls](https://github.com/aleenocl/aleenocl/assets/157506898/2c94a350-fbfe-4c24-8ca2-76a210249e9e)
 ![the-chosen-jesus](https://github.com/aleenocl/aleenocl/assets/157506898/f0590c7e-0160-4c97-85c2-c50dc9745c8a)
+
+<!---
+--->
+🎓 Pós Graduação Stricto Sensu
+<!---
+--->
+🎓 Master of Business Administration 
+<!---
+--->
+🎓 Pós Graduação Lato Sensu 
+<!---
+--->
+🎓 Graduação
+<!---
+--->
+Sistemas de Informação 
+<!---
+--->
+Redes de Computadores
 
 <!---
 --->
@@ -181,9 +203,10 @@ If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/ass
 ![anya-anya-anime](https://github.com/aleenocl/aleenocl/assets/157506898/b0bf6bb2-f101-4fd8-84b1-c7af9d299010)
 ![anya-forger-taking-notes](https://github.com/aleenocl/aleenocl/assets/157506898/fc58c3b5-9080-4d50-b3fa-a02dee963009)
 ![deal-with-it-sunglasses](https://github.com/aleenocl/aleenocl/assets/157506898/deedbb2e-8c48-49ed-a670-bedd01c8e1b6)
-
+![k-on-cake](https://github.com/aleenocl/aleenocl/assets/157506898/4c271130-06ec-41c1-9069-0fa6e7f5285c)
 ![kawaii-girl-anime](https://github.com/aleenocl/aleenocl/assets/157506898/cd94b95b-8480-4b18-933c-f0382374fe96)
 ![kawaii-cat](https://github.com/aleenocl/aleenocl/assets/157506898/bc545b40-084e-42c1-831e-fed660456b79)
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/abbf4a3e-5f3c-4f6e-b4a8-ae9b973bc6e3" width='320px' />
 --->
 
 <!---
@@ -193,19 +216,9 @@ Systems ideas
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/329d1cbc-d7df-49f4-8112-80a45378ea9d" width='150px' /> 
 
-<!---
---->
 
 <!---
 --->
-
-Pós Graduação Stricto Sensu
-
-Master of Business Administration
-
-Pós Graduação Lato Sensu
-
-Graduação
 
 🌲✨ How to reach me 
 <!---
@@ -231,3 +244,15 @@ Graduação
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ebb2a4b4-e8b0-4b4d-b000-02be56c010cc" width='300px' />
 --->
+
+Birthday on 7/16
+<!---
+--->
+
+![anime-cake](https://github.com/aleenocl/aleenocl/assets/157506898/975eaaa5-8539-4899-b738-879ee3fef8c1)
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/b3deac3b-27ce-4ad6-83fe-2f2fdd119f87" width='300px' />
+![party-time-jolly](https://github.com/aleenocl/aleenocl/assets/157506898/427d74fe-79de-4e12-b2ef-fe5081eea3c8)
+<!---
+<!---
+--->
+
