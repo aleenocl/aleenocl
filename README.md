@@ -99,14 +99,28 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 
 <!---
 --->
-🎓 Graduação em Sistemas de Informação 
+🎓 Graduação
 <!---
 --->
+
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/da1b0492-4716-4744-ac6d-515a2dedca4c" width='240px' />
+
+<!---
+--->
+
 ![mio-akiyama-computer](https://github.com/aleenocl/aleenocl/assets/157506898/dd95e694-c857-42f3-8e78-95418f29f720)
 ![kaito-typing](https://github.com/aleenocl/aleenocl/assets/157506898/06b9caa8-2ca6-4134-8ab2-1320aaabc6a3)
+
+
 <!---
 --->
-🎓 Graduação em Redes de Computadores
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/28b6ee54-963d-4f42-bd9a-ec4f25e8648e" width='260px' />
+<!---
+
+--->
+<!---
+--->
+
 <!---
 --->
 ![ninjala-ninjala-anime](https://github.com/aleenocl/aleenocl/assets/157506898/8061f798-b393-43b6-bb7f-8e09ee9ba467)
@@ -114,6 +128,7 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 
 <!---
 --->
+
 
 Donations for interest in contributing to projects
 <!---
