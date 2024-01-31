@@ -122,10 +122,24 @@ Administração e Direção de Empresas.
 <!---
 --->
 
-![image](https://github.com/aleenocl/aleenocl/assets/157506898/71240de2-7299-4259-b939-639f869055ac)
+![1662445789](https://github.com/aleenocl/aleenocl/assets/157506898/0edf77d7-aaf1-4967-b516-dd55eaa5e169) 
+![Data_Science-e1675570161232](https://github.com/aleenocl/aleenocl/assets/157506898/3da08f78-e155-4782-ab34-39efde1f1a02)
 
 <!---
 --->
+![image](https://github.com/aleenocl/aleenocl/assets/157506898/71240de2-7299-4259-b939-639f869055ac)
+![image](https://github.com/aleenocl/aleenocl/assets/157506898/0309b2fe-2f0d-4634-876f-9398293a2501)
+![image](https://github.com/aleenocl/aleenocl/assets/157506898/b4bb8678-b770-4b9c-9dad-b0c34283f2c0)
+
+<!---
+--->
+
+![big-data-analytics jpg optimal](https://github.com/aleenocl/aleenocl/assets/157506898/47f2209f-40d7-4aa7-bf0a-e178201da565)
+
+<!---
+--->
+
+![image](https://github.com/aleenocl/aleenocl/assets/157506898/368e15ee-c9a8-4713-a105-ee938a2ffdcf)
 
 
 <!---
