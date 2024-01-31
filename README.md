@@ -139,6 +139,10 @@ Administração e Direção de Empresas.
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/e7ce4f36-a258-4c5d-a0e4-ff73e9d7325d" width='270px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/75ffd539-b733-4207-95eb-6abf762dee50" width='270px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/04e93bb2-156e-42d9-ae36-ff9e62af9a87" width='270px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/8a5ecaef-ffcf-493f-87ed-a702c094bbf3" width='170px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/13777cd8-3b53-495d-b649-7171c1c27d4b" width='130px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/48c35987-9582-47c5-b74e-ed04781440a1" width='390px' />
+
 
 <!---
 --->
