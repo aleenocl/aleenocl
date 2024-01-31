@@ -268,7 +268,6 @@ Systems ideas
 Birthday on 7/16
 <!---
 
-
 ![anime-cake](https://github.com/aleenocl/aleenocl/assets/157506898/975eaaa5-8539-4899-b738-879ee3fef8c1)
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b3deac3b-27ce-4ad6-83fe-2f2fdd119f87" width='300px' />
 ![party-time-jolly](https://github.com/aleenocl/aleenocl/assets/157506898/427d74fe-79de-4e12-b2ef-fe5081eea3c8)
@@ -276,3 +275,6 @@ Birthday on 7/16
 <!---
 --->
 
+<!---
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/fe0c4587-09a3-411b-9b77-f6eb4d86fd70" width='300px' />
+--->
