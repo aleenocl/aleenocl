@@ -125,6 +125,10 @@ Administração e Direção de Empresas.
 <!---
 --->
 
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/b423b2ac-20e0-4e2b-909f-cf1efafbe085" width='270px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/4b85ed0d-bf2d-4b38-b801-e8b16a9e3a35" width='100px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/44c3c226-00d3-475e-ba49-ab085e54033e" width='200px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/32555a61-3196-4196-b1cd-028222a67741" width='130px' />
 
 
 <!---
@@ -143,7 +147,7 @@ Administração e Direção de Empresas.
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/0309b2fe-2f0d-4634-876f-9398293a2501" width='280px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b4bb8678-b770-4b9c-9dad-b0c34283f2c0" width='280px' />
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/71240de2-7299-4259-b939-639f869055ac" width='200px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/71240de2-7299-4259-b939-639f869055ac" width='230px' />
 
 <!---
 --->
