@@ -108,9 +108,26 @@ Administração e Direção de Empresas.
 🎓 Master of Business Administration 
 <!---
 --->
+
+![image](https://github.com/aleenocl/aleenocl/assets/157506898/b1af4956-4e40-4a56-82b6-f8c30d035b36)
+
+<!---
+--->
+
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/ba3d9eef-eb9f-49e8-af59-e2239def198f" width='240px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/cf7e8853-fc92-4e72-9d3c-6297a27259a1" width='240px' />
+
+
 🎓 Pós Graduação Lato Sensu 
 <!---
 --->
+
+![image](https://github.com/aleenocl/aleenocl/assets/157506898/71240de2-7299-4259-b939-639f869055ac)
+
+<!---
+--->
+
+
 <!---
 ![luna-sailor-moon](https://github.com/aleenocl/aleenocl/assets/157506898/a42b3b32-5a73-41e9-8476-885b46ad3b31)
 ![anime-school](https://github.com/aleenocl/aleenocl/assets/157506898/eeb181ee-11e3-4bd7-9bd4-196cac9454cf)
