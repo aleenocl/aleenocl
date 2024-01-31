@@ -92,13 +92,25 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 🎓 Pós Graduação Lato Sensu 
 <!---
 --->
-🎓 Graduação
+<!---
+![luna-sailor-moon](https://github.com/aleenocl/aleenocl/assets/157506898/a42b3b32-5a73-41e9-8476-885b46ad3b31)
+![anime-school](https://github.com/aleenocl/aleenocl/assets/157506898/eeb181ee-11e3-4bd7-9bd4-196cac9454cf)
+--->
+
 <!---
 --->
-Sistemas de Informação 
+🎓 Graduação em Sistemas de Informação 
 <!---
 --->
-Redes de Computadores
+![mio-akiyama-computer](https://github.com/aleenocl/aleenocl/assets/157506898/dd95e694-c857-42f3-8e78-95418f29f720)
+![kaito-typing](https://github.com/aleenocl/aleenocl/assets/157506898/06b9caa8-2ca6-4134-8ab2-1320aaabc6a3)
+<!---
+--->
+🎓 Graduação em Redes de Computadores
+<!---
+--->
+![ninjala-ninjala-anime](https://github.com/aleenocl/aleenocl/assets/157506898/8061f798-b393-43b6-bb7f-8e09ee9ba467)
+![ninjala-jane](https://github.com/aleenocl/aleenocl/assets/157506898/d22f1c45-39f2-4279-a150-42324b938fbd)
 
 <!---
 --->
