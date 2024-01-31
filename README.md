@@ -165,6 +165,15 @@ Administração e Direção de Empresas.
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/5a9120ad-9aa5-4449-9111-1147e2f44507" width='220px' />
 
 <!---
+![link-link-nice](https://github.com/aleenocl/aleenocl/assets/157506898/32440e43-d76b-4991-b1e9-7eee318b59b0)
+--->
+
+<!---
+--->
+
+![pretty-please-emote](https://github.com/aleenocl/aleenocl/assets/157506898/6800be85-7a8a-4e9d-a792-26c501a3876f)
+
+<!---
 --->
 🎓 Graduação
 <!---
