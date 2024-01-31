@@ -109,38 +109,40 @@ Administração e Direção de Empresas.
 <!---
 --->
 
-![image](https://github.com/aleenocl/aleenocl/assets/157506898/b1af4956-4e40-4a56-82b6-f8c30d035b36)
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/b1af4956-4e40-4a56-82b6-f8c30d035b36" width='220px' />
 
 <!---
 --->
 
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/ba3d9eef-eb9f-49e8-af59-e2239def198f" width='240px' />
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/cf7e8853-fc92-4e72-9d3c-6297a27259a1" width='240px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/ba3d9eef-eb9f-49e8-af59-e2239def198f" width='280px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/cf7e8853-fc92-4e72-9d3c-6297a27259a1" width='280px' />
 
 
 🎓 Pós Graduação Lato Sensu 
 <!---
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/0edf77d7-aaf1-4967-b516-dd55eaa5e169" width='200px' />
 --->
-
-![1662445789](https://github.com/aleenocl/aleenocl/assets/157506898/0edf77d7-aaf1-4967-b516-dd55eaa5e169) 
-![Data_Science-e1675570161232](https://github.com/aleenocl/aleenocl/assets/157506898/3da08f78-e155-4782-ab34-39efde1f1a02)
 
 <!---
 --->
-![image](https://github.com/aleenocl/aleenocl/assets/157506898/71240de2-7299-4259-b939-639f869055ac)
-![image](https://github.com/aleenocl/aleenocl/assets/157506898/0309b2fe-2f0d-4634-876f-9398293a2501)
-![image](https://github.com/aleenocl/aleenocl/assets/157506898/b4bb8678-b770-4b9c-9dad-b0c34283f2c0)
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/3da08f78-e155-4782-ab34-39efde1f1a02" width='450px' />
 
 <!---
 --->
-
-![big-data-analytics jpg optimal](https://github.com/aleenocl/aleenocl/assets/157506898/47f2209f-40d7-4aa7-bf0a-e178201da565)
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/0309b2fe-2f0d-4634-876f-9398293a2501" width='280px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/b4bb8678-b770-4b9c-9dad-b0c34283f2c0" width='280px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/71240de2-7299-4259-b939-639f869055ac" width='200px' />
 
 <!---
 --->
 
-![image](https://github.com/aleenocl/aleenocl/assets/157506898/368e15ee-c9a8-4713-a105-ee938a2ffdcf)
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/368e15ee-c9a8-4713-a105-ee938a2ffdcf" width='150px' />
 
+<!---
+--->
+
+
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/dcb335c1-03d5-465a-9a02-e386f8a7341b" width='280px' />
 
 <!---
 ![luna-sailor-moon](https://github.com/aleenocl/aleenocl/assets/157506898/a42b3b32-5a73-41e9-8476-885b46ad3b31)
