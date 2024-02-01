@@ -24,6 +24,12 @@
 
 <!---
 --->
+
+Cupom: MAX10VAMPIREE 
+👊🏻 10% de desconto em todos os produtos no site da <a href="https://www.maxtitanium.com.br/lancamentos" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/8c459bff-2038-40d2-90e7-9ee1ada516cd" width='190px' /> 
+
+<!---
+--->
 📖 I’m interested in
 
 <!---
@@ -49,6 +55,9 @@ Business Management | Personal Development | Business Planning | Development of 
 --->
 <!---
 ![thats-you-point-out](https://github.com/aleenocl/aleenocl/assets/157506898/c5594caa-e97a-467d-b88c-f2ccc6ffb375)
+--->
+
+<!---
 --->
 
 📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/afdd4b66-74c4-4bd7-a782-bb31c2304ea2" width='140px' />
@@ -80,6 +89,9 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 --->
 ![jpineapplepen-stpauls](https://github.com/aleenocl/aleenocl/assets/157506898/2c94a350-fbfe-4c24-8ca2-76a210249e9e)
 ![the-chosen-jesus](https://github.com/aleenocl/aleenocl/assets/157506898/f0590c7e-0160-4c97-85c2-c50dc9745c8a)
+
+<!---
+--->
 
 <!---
 Pós Graduação
@@ -340,12 +352,6 @@ Systems ideas
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/7c8fbbe5-af3b-4494-aaf8-6720963b6983)" width='100px' /> 
 --->
 <a href="https://open.spotify.com/user/dv9m6af3rai83a4lgt7wbgmp6?si=99YOx1MHQHa1ggAi-uS26g" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/bce605fc-3c91-4cde-97a5-ae49367a788d" width='50px' /> 
-
-<!---
---->
-
-Cupom: MAX10VAMPIREE 
-👊🏻 10% de desconto em todos os produtos no site da <a href="https://www.maxtitanium.com.br/lancamentos" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/8c459bff-2038-40d2-90e7-9ee1ada516cd" width='190px' /> 
 
 <!---
 --->
