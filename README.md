@@ -64,8 +64,7 @@ Business Management | Personal Development | Business Planning | Development of 
 <!---
 --->
 
-
-
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/3a6e8310-d627-48d9-b916-aef3f06e4056" width='210px' />
 
 <!---
 --->
