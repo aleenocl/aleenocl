@@ -211,13 +211,14 @@ Donations for interest in contributing to projects
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/90a95977-0b5f-47fd-9906-6e9d51fef855" width='250px' />
 <!---
 --->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='80px' /> 
 
+<a href="mailto:leenocdonations@gmail.com" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='80px' /> 
 
 <!---
 --->
 
 <!---
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='80px' /> 
 --->
 
 <!---
