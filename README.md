@@ -205,22 +205,6 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <!---
 --->
 
-Donations for interest in contributing to projects
-<!---
---->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/90a95977-0b5f-47fd-9906-6e9d51fef855" width='250px' />
-<!---
---->
-
-<a href="mailto:leenocdonations@gmail.com" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='80px' /> 
-
-<!---
---->
-
-<!---
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='80px' /> 
---->
-
 <!---
 aleenocl/aleenocl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -381,6 +365,22 @@ Conference
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/40a864d7-3b57-4c13-9ab2-7791ccd90fa0" width='120px' />
 
 <!---
+--->
+
+Donations for interest in contributing to projects
+<!---
+--->
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/90a95977-0b5f-47fd-9906-6e9d51fef855" width='250px' />
+<!---
+--->
+
+<a href="mailto:leenocdonations@gmail.com" target="_blank"><img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='80px' /> 
+
+<!---
+--->
+
+<!---
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/d9180d29-d969-4d09-bbaa-429d388e9d26" width='80px' /> 
 --->
 
 🌲✨ How to reach me 
