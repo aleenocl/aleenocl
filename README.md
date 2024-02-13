@@ -219,22 +219,16 @@ Trainings
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/9b21722d-5443-4301-ad6a-4d4325daf6a8" width='120px' />
 <!---
 --->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/2ba04f9e-c090-40e2-bb11-c0131a42024e" width='160px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/4677d749-2383-470b-88c3-18e99e08769b" width='120px' />
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/fa845ed4-50eb-43a9-8c41-27353b84ccf9" width='160px' />
-<!---
-managment consulting
-<!---
-<!---
---->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/7bfd3f67-168e-4c0e-8394-e040f4249cb6" width='180px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/fa845ed4-50eb-43a9-8c41-27353b84ccf9" width='140px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/7bfd3f67-168e-4c0e-8394-e040f4249cb6" width='160px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2582a294-159d-4bae-8d3e-cfcd5f76f138" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2f61c635-4b6a-4755-af60-d1631f5850bb" width='120px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/0990ccde-dc93-4b38-a9fb-d85c2e72fe22" width='320px' />
 <!---
----> 
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/0990ccde-dc93-4b38-a9fb-d85c2e72fe22" width='120px' />
-<!---
+power bi
 --->
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/2ba04f9e-c090-40e2-bb11-c0131a42024e" width='100px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/14d83eb7-7682-4414-9724-50bff2ce4ecf" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ae1d21e6-64a8-428b-8ead-e27bee681ca9" width='120px' />
 <!---
@@ -246,7 +240,6 @@ managment consulting
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/fca49a45-422e-4d9e-8874-2cbb5369d7e4" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b2b2b62b-75f6-4552-8df6-6bf6bad3afca" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/76641c56-44c8-4d6a-af1e-3a304e3fdc9c" width='120px' />
-
 <!---
 --->
 
