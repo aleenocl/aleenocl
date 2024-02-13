@@ -221,9 +221,13 @@ Trainings
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2ba04f9e-c090-40e2-bb11-c0131a42024e" width='160px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/4677d749-2383-470b-88c3-18e99e08769b" width='120px' />
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/fa845ed4-50eb-43a9-8c41-27353b84ccf9" width='120px' />
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/5e09bfb0-f2ad-483f-b55b-d867c381db8b" width='160px' />
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/7bfd3f67-168e-4c0e-8394-e040f4249cb6" width='120px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/fa845ed4-50eb-43a9-8c41-27353b84ccf9" width='160px' />
+<!---
+managment consulting
+<!---
+<!---
+--->
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/7bfd3f67-168e-4c0e-8394-e040f4249cb6" width='180px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2582a294-159d-4bae-8d3e-cfcd5f76f138" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2f61c635-4b6a-4755-af60-d1631f5850bb" width='120px' />
 <!---
