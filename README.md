@@ -51,7 +51,6 @@ Cupom: MAX10VAMPIREE
 <!---
 --->
 <!---
-Business Management | Personal Development | Business Planning | Development of Management Systems | Leadership and People Management | Business Audit
 --->
 <!---
 ![thats-you-point-out](https://github.com/aleenocl/aleenocl/assets/157506898/c5594caa-e97a-467d-b88c-f2ccc6ffb375)
