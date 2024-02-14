@@ -200,20 +200,25 @@ Trainings
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/fc05a3c0-6f33-42ce-abd6-d4368cc2c129" width='170px' /> 
 <!---
 --->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/60b52397-973f-47b3-90b1-22f5c8a4b02c" width='130px' />
+
 <br />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ef185396-e17b-4298-8098-62506160627d" width='120px' /> 
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/04f45c7a-20fb-475c-a648-15c337e890b0" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/cf07ec2d-bc7b-45f7-bf6c-ac42858e28dd" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b7b9314f-040a-46cd-96ae-0c11261d244c" width='120px' />
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/581fd69b-c58a-41a5-b338-c037e820e49e" width='120px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/60b52397-973f-47b3-90b1-22f5c8a4b02c" width='130px' />
+<br />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/913cc7ab-7f3f-4054-bddc-6ee1a740d75c" width='170px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/581fd69b-c58a-41a5-b338-c037e820e49e" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/1770d5f3-37af-4d38-97d7-1b27247056b6" width='170px' />
+<br />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/a3f65da2-3366-4cb6-9d79-cc7879c7f7b9" width='110px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2a5aaa90-3aaa-4023-af51-78421cd7198d" width='290px' />
 <!---
 --->
+<br />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/6df9143b-c2a0-4692-a0aa-a2be8a3aaa5c" width='160px' />
+<br />
 <!---
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/1b165613-b687-43b5-8a11-f47260666268" width='100px' />
@@ -221,12 +226,14 @@ Trainings
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/9b21722d-5443-4301-ad6a-4d4325daf6a8" width='120px' />
 <!---
 --->
+<br />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/0990ccde-dc93-4b38-a9fb-d85c2e72fe22" width='350px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/4677d749-2383-470b-88c3-18e99e08769b" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/fa845ed4-50eb-43a9-8c41-27353b84ccf9" width='140px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/7bfd3f67-168e-4c0e-8394-e040f4249cb6" width='160px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2582a294-159d-4bae-8d3e-cfcd5f76f138" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2f61c635-4b6a-4755-af60-d1631f5850bb" width='120px' />
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/0990ccde-dc93-4b38-a9fb-d85c2e72fe22" width='320px' />
+
 <!---
 fim gestao
 --->
