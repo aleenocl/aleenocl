@@ -63,13 +63,11 @@ Cupom: MAX10VAMPIREE
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/afdd4b66-74c4-4bd7-a782-bb31c2304ea2" width='140px' />
 --->
+
 <br />
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/3a6e8310-d627-48d9-b916-aef3f06e4056" width='210px' />
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/3a6e8310-d627-48d9-b916-aef3f06e4056" width='210px' /> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2879d749-5548-42db-aac6-96206292f227" width='230px' /> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2bda003f-5995-47b2-98dd-ce862daaea35" width='200px' /> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/fcbc0299-cb8d-4a75-8ea1-a945bac9769e" width='320px' />
 
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/2879d749-5548-42db-aac6-96206292f227" width='230px' />
-
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/2bda003f-5995-47b2-98dd-ce862daaea35" width='200px' />
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/fcbc0299-cb8d-4a75-8ea1-a945bac9769e" width='320px' />
+<br />
 
 <!---
 --->
