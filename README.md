@@ -272,6 +272,10 @@ inicio hackr
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/c375ddfa-95ed-4d74-9e10-94d6a1fd4623" width='120px' />
 --->
 
+<br /> 
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/09f83080-2282-4b2e-90bf-a0f243d6b0e5" width='120px' />
+
+
 <!---
 ethical hack
 --->
@@ -396,18 +400,22 @@ If you want to buy me a ![Screenshot_1](https://github.com/aleenocl/aleenocl/ass
 --->
 <!---
 --->
-
-Conference
 <!---
+Conference
 --->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/09f83080-2282-4b2e-90bf-a0f243d6b0e5" width='120px' />
+
+<!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b54febf8-f05e-4578-b959-cb70211d0071" width='120px' />
+--->
+<br/ >
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/d5f28dcf-fd88-4c1b-9114-89c59060b630" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ba09abe8-a8df-434d-8b84-68a94fbfa63c" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2295ff2d-6ae5-45e6-8fd7-8710ec997711" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/c5082606-a088-4a7e-94f5-68024fe59198" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/6ea9862f-2055-40b4-850d-bc4a26ecc4d8" width='120px' />
+<!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/2f2b9c00-f4b6-4dad-a9d9-e21d30a5e1a8" width='120px' />
+--->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/60f78bca-8124-4370-bc7c-8163cb79d229" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/8d83b22f-d733-4c62-b9e5-9a899700ff26" width='120px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/40a864d7-3b57-4c13-9ab2-7791ccd90fa0" width='120px' />
