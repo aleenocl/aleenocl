@@ -59,7 +59,10 @@ Cupom: MAX10VAMPIREE
 <!---
 --->
 
-📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/afdd4b66-74c4-4bd7-a782-bb31c2304ea2" width='140px' />
+📚 I’m currently learning <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+<!---
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/afdd4b66-74c4-4bd7-a782-bb31c2304ea2" width='140px' />
+--->
 <!---
 --->
 
