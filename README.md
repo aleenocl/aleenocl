@@ -13,7 +13,7 @@
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/57857c51-af08-4771-bb33-b9f2fee4f587" width='90px' />
 --->
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/23a260bf-c35b-4d5d-ad4e-9bec8ce4a496" width='450px' /> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/55e2a89f-8a4f-4eb8-9583-764b94b1aca9" width='180px' /> 
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/23a260bf-c35b-4d5d-ad4e-9bec8ce4a496" width='450px' /> <img src="https://github.com/aleenocl/aleenocl/assets/157506898/55e2a89f-8a4f-4eb8-9583-764b94b1aca9" width='190px' /> 
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b09aabd1-e91b-436b-af23-323e2d19b0ee" width='77px' />
 --->
@@ -145,33 +145,35 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <!---
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/3da08f78-e155-4782-ab34-39efde1f1a02" width='450px' />
-
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/dcb335c1-03d5-465a-9a02-e386f8a7341b" width='370px' />
+<br />
 <!---
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/0309b2fe-2f0d-4634-876f-9398293a2501" width='200px' />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/b4bb8678-b770-4b9c-9dad-b0c34283f2c0" width='180px' />
+<br />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/71240de2-7299-4259-b939-639f869055ac" width='150px' />
 
 <!---
 --->
-
+<br />
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/368e15ee-c9a8-4713-a105-ee938a2ffdcf" width='110px' />
-
+<br />
 <!---
 --->
 
 
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/dcb335c1-03d5-465a-9a02-e386f8a7341b" width='290px' />
+
 
 <!---
 ![luna-sailor-moon](https://github.com/aleenocl/aleenocl/assets/157506898/a42b3b32-5a73-41e9-8476-885b46ad3b31)
 ![anime-school](https://github.com/aleenocl/aleenocl/assets/157506898/eeb181ee-11e3-4bd7-9bd4-196cac9454cf)
 --->
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/ec808940-4cdb-4752-bee7-9c789ba017bd" width='160px' />
-
-<br /> 
-
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/5a9120ad-9aa5-4449-9111-1147e2f44507" width='220px' />
+<br /> 
+<img src="https://github.com/aleenocl/aleenocl/assets/157506898/6800be85-7a8a-4e9d-a792-26c501a3876f" width='320px' />
+
 
 <!---
 ![link-link-nice](https://github.com/aleenocl/aleenocl/assets/157506898/32440e43-d76b-4991-b1e9-7eee318b59b0)
@@ -180,13 +182,14 @@ Porque assim como os céus são mais altos do que a terra, assim são os meus ca
 <!---
 --->
 
-<img src="https://github.com/aleenocl/aleenocl/assets/157506898/6800be85-7a8a-4e9d-a792-26c501a3876f" width='320px' />
+
 
 <!---
 --->
 
-
+<br /> 
 Trainings
+<br /> 
 <!---
 <img src="https://github.com/aleenocl/aleenocl/assets/157506898/1a97f11b-3cbf-4454-80be-c249f20a22a3" width='150px' /> 
 --->
